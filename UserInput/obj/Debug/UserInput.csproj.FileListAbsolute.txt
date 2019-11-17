@@ -1,0 +1,5 @@
+/Users/joyce/Projects/UserInput/UserInput/bin/Debug/UserInput.exe
+/Users/joyce/Projects/UserInput/UserInput/bin/Debug/UserInput.pdb
+/Users/joyce/Projects/UserInput/UserInput/obj/Debug/UserInput.csprojAssemblyReference.cache
+/Users/joyce/Projects/UserInput/UserInput/obj/Debug/UserInput.exe
+/Users/joyce/Projects/UserInput/UserInput/obj/Debug/UserInput.pdb
